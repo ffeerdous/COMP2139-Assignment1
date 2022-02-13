@@ -38,3 +38,4 @@ C:\Users\ferdo\source\repos\COMP2139-Assignment1\Assignment1Test\Assignment1Test
 C:\Users\ferdo\source\repos\COMP2139-Assignment1\Assignment1Test\Assignment1Test\obj\Debug\net5.0\Assignment1Test.pdb
 C:\Users\ferdo\source\repos\COMP2139-Assignment1\Assignment1Test\Assignment1Test\obj\Debug\net5.0\Assignment1Test.genruntimeconfig.cache
 C:\Users\ferdo\source\repos\COMP2139-Assignment1\Assignment1Test\Assignment1Test\obj\Debug\net5.0\Assignment1Test.csproj.CopyComplete
+C:\Users\ferdo\source\repos\COMP2139-Assignment1\Assignment1Test\Assignment1Test\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
